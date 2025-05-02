@@ -1,0 +1,77 @@
+.banner{
+    display: flex;
+    align-items: center;
+    background-image: url(img/banner.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 670px;
+}
+
+.text_banner{
+    margin: 0 360px;
+    color: azure;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.text_banner h2{
+    font-size:50px;
+    font-style: bold;
+}
+
+.text_banner a{
+    display: block;
+    margin: 60px 0;
+    padding: 12px;
+    color:azure;
+    border: 2px solid azure;
+    width: 150px;
+    text-decoration: none;
+    border-radius: 16px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.text_banner p{
+    font-size: 20px;
+    font-weight: bold;
+}
+ .container p{
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+ .container a{
+    color:darkblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+ }
+
+
+.container{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1280px;
+    height: auto;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between
+
+}
+.box {
+    margin: 15px;
+    height: auto;
+    border: 1px solid silver;
+    border-radius: 16px;
+}
+.box img{
+    width: 100%;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-evenly;
+
+}
+
+    .botao{
+    text-decoration: none;
+    font-size: 22px;
+
+}
