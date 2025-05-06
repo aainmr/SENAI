@@ -59,23 +59,28 @@
 }
 .box {
     margin: 15px;
-    height: auto
-    width: 268px;
     height: auto;
+    width: 268px;
     border: 1px solid silver;
     border-radius: 16px;
     padding: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
 }
 .box img{
-    width: auto;
+    width: 100%;
     display: flex;
     margin: 0 auto;
-    justify-content: space-evenly
+    justify-content: center;
     
 
 }
+
 .botao {
     text-decoration: none;
+    justify-content: flex-end;
 
 }
 
