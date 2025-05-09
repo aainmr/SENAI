@@ -1,18 +1,16 @@
 .container{
     font-family: Arial, Helvetica, sans-serif;
-    width: 1024;
-    height: auto;
-    margin: 0 auto;
+    width: auto 0;
+    height: auto 0;
     display: flex;
-    justify-content: space-between;
     background-color: black;
-    height: auto;
     flex-direction:column;
     align-items:center;
+    padding-bottom: 100px;
 }
+
 .container a{
     display: block;
-    margin: 60px 0;
     padding: 12px;
     color:azure;
     border: 2px solid azure;
@@ -23,16 +21,18 @@
     font-weight: bold;
   
 }
-.container h2{
-    display: block;
-    margin: 60px 0;
-    padding: 12px;
+.container p{
+    display: flex;
+    margin: 0;
+    height: 0px;
     color:azure;
-    border: 2px solid azure;
-    width: 150px;
+    width: 2px;
     text-decoration: none;
-    border-radius: 16px;
     text-align: center;
     font-weight: bold;
   
+}
+@media screen and (max-width: 1023px){
+.container a{
+    width: 350px;
 }

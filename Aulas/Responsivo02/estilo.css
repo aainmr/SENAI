@@ -31,7 +31,7 @@
     }
 
     .box{
-    width: 100%;
+    width: 50%;
     flex-direction: column;
     }
 
@@ -39,9 +39,6 @@
         width:100%;
     }
 
-    .content{
-        width:100%;
-    }
 
     
 }
