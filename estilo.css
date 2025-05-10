@@ -39,6 +39,9 @@
   
 }
 @media screen and (max-width: 1023px){
-.container a{
+.container{
+    justify-content: space-between;
+}
+    .container a{
     width: 350px;
 }
