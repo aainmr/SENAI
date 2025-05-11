@@ -106,6 +106,8 @@ margin: 0 auto;
      }
      .menu {
         margin: 0 auto;
+        display: flex;
+        flex-direction:row;
      }
      
     .container{
