@@ -99,10 +99,9 @@ margin: 0 auto;
 @media screen and (max-width: 1023px){
 
 
-    }
      .header{
         height: auto;
-        width: 612px;
+        width: 512px;
      }
      
     .container{
