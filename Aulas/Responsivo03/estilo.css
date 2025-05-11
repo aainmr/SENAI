@@ -121,6 +121,6 @@ margin: 0 auto;
         margin: 8px;
     }
     .menu a{
-        justify-content: space-between;
+        justify-content: space-evenly;
     }
 }
