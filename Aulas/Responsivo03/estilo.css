@@ -132,4 +132,7 @@ margin: 0 auto;
     .box{
         margin: 8px;
     }
+    .footer{
+        text-align: center;
+    }
 }
