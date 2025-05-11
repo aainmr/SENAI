@@ -120,4 +120,7 @@ margin: 0 auto;
     .box{
         margin: 8px;
     }
+    .menu a{
+        justify-content: space-between;
+    }
 }
