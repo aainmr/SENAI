@@ -18,6 +18,7 @@
 .menu{
     list-style: none;
     display: flex;
+    flex-direction:row;
 }
 
 .menu a{
@@ -119,8 +120,5 @@ margin: 0 auto;
     }
     .box{
         margin: 8px;
-    }
-    .menu a{
-        align-items:flex-start;
     }
 }
