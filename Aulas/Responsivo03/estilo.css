@@ -98,8 +98,7 @@ margin: 0 auto;
 /*mobile responsive*/
 @media screen and (max-width: 1023px){
 
-    .menu{
-        justify-content:space-evenly;
+
     }
      .header{
         height: auto;
