@@ -40,7 +40,7 @@
 }
 @media screen and (max-width: 1023px){
     .header{
-        width: auto;
+        justify-content: space-evenly;
     }
 
 .container{
