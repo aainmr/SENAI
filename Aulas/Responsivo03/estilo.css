@@ -23,7 +23,7 @@
 .menu a{
     color: #c12a21;
     text-decoration: none;
-    padding: 8px 16px;
+    padding: 4px 8px;
 }
 
 .banner{
@@ -101,7 +101,7 @@ margin: 0 auto;
 
      .header{
         height: auto;
-        width: 512px;
+        width: auto;
      }
      
     .container{
