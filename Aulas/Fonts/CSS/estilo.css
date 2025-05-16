@@ -1,0 +1,16 @@
+*{
+   background-color: black;
+}
+h2{
+    color: white;
+    font-family: "Inter";
+    font-weight: 400;
+}
+.destaque{
+    font-weight: 700;
+}
+.fonte{
+    color: white;
+    font-family: "Inter";
+    font-weight: 300;
+}
